@@ -9,7 +9,6 @@ import 'package:clean_tdd_app/features/number_trivia/domain/usecases/get_concret
 import 'package:clean_tdd_app/features/number_trivia/domain/usecases/get_random_number_trivia.dart';
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter/rendering.dart';
 import 'package:meta/meta.dart';
 
 part 'number_trivia_event.dart';
